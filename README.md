@@ -9,7 +9,7 @@ _________________________________________________________________________
 
 Initial Prep)
 -------------
-All the required measurement data has been downloaded in working directory as zip file, the data is extracted in the folder with the same name, the folder contains test and training data. 
+All the required measurement data has been downloaded in working directory as zip file, the data is extracted in the folder with the same name, the folder contains test and training data. The details about the data is present in READMEDATA.md file present in the github repo
 
 
 Step1) 
@@ -67,3 +67,4 @@ this step invokes dplyr package to first group the output dataset of step 8 by S
 Step10)
 -------
 This step writes the tidy datset to a text file
+
