@@ -1,9 +1,10 @@
-==============
-run_analysis.R
-==============
+                          
+ run_analysis.R V1.0 
+ =================== 
 
-The script executes the following steps for creating tidy dataset
------------------------------------------------------------------
+--------------------------------------------------------------------------
+|The script executes the following steps for creating output tidy dataset|
+--------------------------------------------------------------------------
 
 
 Step1) 

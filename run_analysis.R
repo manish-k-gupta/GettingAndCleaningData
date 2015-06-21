@@ -1,4 +1,8 @@
 
+#--------------------
+#run_analysis.R V1.0|
+#--------------------
+
 #Data collected from the accelerometers from the Samsung Galaxy S smartphone downloaded as zip file in working directory.
 
 # Data files have been downloaded in 
